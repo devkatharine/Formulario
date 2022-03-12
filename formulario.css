@@ -3,6 +3,7 @@
     padding: 0;
 
 }
+
 #titulo{
     font-family: sans-serif;
     color: #03045E;
@@ -61,15 +62,12 @@ fieldset.grupo.campo{
     font-size: 1.2em;
     background: #03045E;
     color: white;
-    border: 0;
+    padding: 0.2em 0.6em;
+    margin-bottom: 1em;
+    border: 0.3em;
     border-bottom: 1em;
     box-shadow: 2px 2px 2px;
     text-shadow: 1px 1px 1px #00B4D8;
-    position: absolute;
-    top: 90%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
     
     
 }
